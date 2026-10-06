@@ -1,0 +1,4 @@
+# UNSW Battlecode project file, read by `unswbc run` and `unswbc submit`.
+[project]
+language = "c++"
+include = [ "*.cpp", "*.hpp" ]
